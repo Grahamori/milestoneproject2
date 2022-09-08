@@ -98,3 +98,27 @@ body {
     font-size: 2rem;
 
 }
+
+.instructions {
+    display: flex;
+    flex-direction: column;
+    background-color: #e2dbdb;
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin: 10% 20%;
+    padding: 10px 0;
+}
+
+.instruct-title {
+    font-size: 1.5rem;
+    font-weight: lighter;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+.instruct-text {
+    text-align: center;
+    margin: 10px;
+    line-height: 20px;
+}
