@@ -1,1 +1,26 @@
 /* font-family: 'Archivo', sans-serif; Added as a Reminder.*/ 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(/image/bg-texture.jpg);
+    font-family: 'Archivo', sans-serif;
+}
+
+.header {
+    text-align: center;
+    background-color: #a8a4a4;
+}
+.header h1 {
+    font-size: 2rem;
+    font-weight: lighter;
+    letter-spacing: 5px;
+    padding: 40px 0;
+}
+
+.main-content {
+    background-color: #e2dbdb;
+}
+
