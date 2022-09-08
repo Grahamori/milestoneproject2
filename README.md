@@ -39,6 +39,7 @@ Table of contents:
    • General reference
 
 #### Emojis from emojipedia.com
+#### Background Image from thepatternlibrary.com
 
    • Content
    • Media  
