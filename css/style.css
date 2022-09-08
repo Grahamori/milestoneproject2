@@ -21,6 +21,80 @@ body {
 }
 
 .main-content {
+    display: flex;
+    flex-direction: column;
     background-color: #e2dbdb;
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin: 20%;
 }
 
+.score-text {
+    padding-top: 1rem;
+}
+
+.score-text,
+.result-text {
+    font-size: 1.5rem;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+.player-score,
+.computer-score {
+    font-weight: lighter;
+}
+
+.score-display {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    font-size: 1.2rem;
+    padding: 10px 0 20px 0;
+}
+
+.element-text {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+.game-choices {
+    display: flex;
+    justify-content: center;
+}
+
+.choice {
+    font-size: 4.5rem;
+    background: none;
+    border: none;
+    outline: none;
+    margin: 0.5rem 2.5rem;
+    cursor: pointer;
+    transition: 100ms;
+}
+
+.result-text{
+    margin-top: 3rem;
+}
+
+.game-result {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    font-size: 1.2rem;
+    padding: 20px 0;
+}
+
+.player-choice,
+.computer-choice {
+    margin-left: 1rem;
+    font-size: 2rem;
+
+}
