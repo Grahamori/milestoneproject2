@@ -37,5 +37,8 @@ Table of contents:
 9. Credits
    • Honourable mentions
    • General reference
+
+#### Emojis from emojipedia.com
+
    • Content
    • Media  
