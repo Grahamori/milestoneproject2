@@ -4,6 +4,7 @@
 Researched fun fonts that look good in a game, couldn't find any that I liked. Searched through Google Fonts and decided on 'Archivo' font. I like the way it looks with bold rounded letters and I think it will look good for a game display font.
 
 
+
 Table of contents:
 
 1. Site Overview
