@@ -4,3 +4,7 @@
 const playerResultDisplay = document.getElementsByClassName('player-choice');
 const computerResultDisplay = document.getElementsByClassName('computer-choice');
 const resultDisplay = document.getElementsByID('player-result');
+const possibleChoices = document.getElementsByClassName('button');
+
+
+
