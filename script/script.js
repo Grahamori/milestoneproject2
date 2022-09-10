@@ -4,6 +4,8 @@
 
 const selectedChoices = document.querySelectorAll('[data-selection]');
 const resultColumn = document.querySelector('[data-result-column]');
+const playerScore = document.querySelector('.player-score-result');
+const computerScore = document.querySelector('.computer-score-result');
 
 const possibleSelections = [
     {
@@ -40,7 +42,15 @@ function makeSelection(selection) {
     addWinnerResult(computerChoice, computerWinner)
     addWinnerResult(selection, userWinner)
 
+    if (userWinner) addScore(playerScore)
+    if (computerWinner) addScore(computerScore)
+
 };
+
+function addScore(incrementScore) {
+    incrementScore.innerText = parseInt(incrementScore.innerText) + 1
+};
+
 
 function addWinnerResult(selection, winner) {
     const result = document.createElement('result')
