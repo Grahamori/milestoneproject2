@@ -1,5 +1,6 @@
 /* Task One Allow player and Computer to make choices */
-/* Task Two Display those above choices in the results section */
+/* Task Two Create Array of possible selections */
+/* Task Three Display those above choices in the results section */
 
 const selectedChoices = document.querySelectorAll('[data-selection]');
 
