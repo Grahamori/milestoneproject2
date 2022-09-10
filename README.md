@@ -6,7 +6,7 @@
 
 ### 🖼️ Site Preview
 
-![Website Preview](assets/img/sitepreview.PNG)
+![Website Preview](image/display.PNG)
 
 #### Project Colors
 As for colour scheme, I have decided to use a dark background of some kind, will upload some examples as I find them to try out and see which one I like as the page evolves. My thoughts are dark background with medium grey colored header and white title. The reason I have decided this color combination is to allow the game itself to be more enhanced on the page, game background will be white or off white, possibly light grey. 
