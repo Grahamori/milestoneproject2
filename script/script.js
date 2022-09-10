@@ -34,8 +34,16 @@ function makeSelection(selection) {
     const computerChoice = computerSelection()
     const userWinner = isWinner(selection, computerChoice)
     const computerWinner = isWinner(computerChoice, selection)
-    console.log(computerChoice) /* Used this to check function works correctly */
+    // console.log(computerChoice) /* Used this to check function works correctly */
+
+    addWinnerResult(computerChoice, computerWinner)
+    addWinnerResult(selection, userWinner)
+
 };
+
+function addWinnerResult(selection, winner) {
+
+}
 
 function isWinner (selection, rivalSelection) {
     return selection.beats === rivalSelection.name
