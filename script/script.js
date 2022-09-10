@@ -32,8 +32,14 @@ selectedChoices.forEach(selectedChoice => {
 
 function makeSelection(selection) {
     const computerChoice = computerSelection()
+    const userWinner = isWinner(selection, computerChoice)
+    const computerWinner = isWinner(computerChoice, selection)
     console.log(computerChoice) /* Used this to check function works correctly */
 };
+
+function isWinner (selection, rivalSelection) {
+    return selection.beats === rivalSelection.name
+}
 
 function computerSelection() {
     const generateComputerSelection = Math.floor(Math.random() * possibleSelections.length)
