@@ -3,6 +3,7 @@
 /* Task Three Display those above choices in the results section */
 
 const selectedChoices = document.querySelectorAll('[data-selection]');
+const resultColumn = document.querySelector('[data-result-column]');
 
 const possibleSelections = [
     {
@@ -42,11 +43,15 @@ function makeSelection(selection) {
 };
 
 function addWinnerResult(selection, winner) {
-
+    const result = document.createElement('result')
+    result.innerText = selection.symbol
+    result.classList.add('not-winner')
+    if (winner) result.classList.add('winner')
+    resultColumn.after(result)
 }
 
 function isWinner (selection, rivalSelection) {
-    return selection.beats === rivalSelection.name
+    return selection.this_beats === rivalSelection.name
 }
 
 function computerSelection() {

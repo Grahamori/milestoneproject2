@@ -92,8 +92,8 @@ body {
     padding: 20px 0;
 }
 
-.player-choice,
-.computer-choice {
+
+.results {
     margin-left: 1rem;
     font-size: 2rem;
 }
