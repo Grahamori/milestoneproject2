@@ -27,8 +27,14 @@ selectedChoices.forEach(selectedChoice => {
         const selection = possibleSelections.find(possibleSelection => possibleSelection.name === selectedName) /* took me a few tries to get this one right */
         makeSelection(selection)
     })
-})
+});
 
 function makeSelection(selection) {
-    console.log(selection) /* Used this to check function works correctly */
-}
+    const computerChoice = computerSelection()
+    console.log(computerChoice) /* Used this to check function works correctly */
+};
+
+function computerSelection() {
+    const generateComputerSelection = Math.floor(Math.random() * possibleSelections.length)
+    return possibleSelections[generateComputerSelection]
+};
