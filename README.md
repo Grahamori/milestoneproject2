@@ -36,8 +36,7 @@
 #### Emojis from emojipedia.com
 #### Background Image from thepatternlibrary.com
 
-🖼️
-## Site Preview
+🖼️ ## Site Preview
 
 ![Website Preview](image/display.PNG)
 
