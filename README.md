@@ -16,9 +16,9 @@ Researched fun fonts that look good in a game, couldn't find any that I liked. S
 
 
 
-Table of contents:
+# Table of contents:
 
-1. Site Overview
+* [1. Site Preview](#site-preview)
 2. Planning stage
    • Target Audiences
    • User Stories
