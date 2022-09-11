@@ -6,7 +6,7 @@
 
 # Table of contents:
 
-* [1. Site Preview](#🖼️-site-preview)
+* [1. Site Preview](#site-preview)
 2. Planning stage
    • Target Audiences
    • User Stories
@@ -38,7 +38,7 @@
    • Content
    • Media  
 
-## 🖼️ Site Preview
+## Site Preview
 
 ![Website Preview](image/display.PNG)
 
