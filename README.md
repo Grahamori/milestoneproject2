@@ -2,9 +2,9 @@
 
 🖼️ 🎤 🎯 
 
-## Battle of Elements (aka Rock Paper Scissors)
+# Battle of Elements (aka Rock Paper Scissors)
 
-### 🖼️ Site Preview
+## 🖼️ Site Preview
 
 ![Website Preview](image/display.PNG)
 
