@@ -13,7 +13,7 @@
    • Site Aims
    • Wireframes
    • Color Scheme
-   • **Typography*
+   • Fonts
 * [3. Current Features Common to all pages](#current-features)
    • Header Element:
    • The rest of your features
