@@ -7,36 +7,34 @@
 # Table of contents:
 
 * [1. Site Preview](#site-preview)
-2. Planning stage
+* [2. Planning stage](#planning-stage)
    • Target Audiences
    • User Stories
    • Site Aims
    • Wireframes
    • Color Scheme
    • **Typography*
-3. Current Features Common to all pages
+* [3. Current Features Common to all pages](#current-features)
    • Header Element:
    • The rest of your features
    • Footer
-4. Individual Page Content features
+* [4. Individual Page Content features]
    • About Page Content
    • Teachings Page Content
    • Community Page Content
    • Contact Page Content
    • Form Feedback Page Content
-5. Future-Enhancements
-6. Testing Phase
-7. Deployment
-8. Tech
-9. Credits
+* [5. Future-Enhancements](#future-enhancements)
+* [6. Testing Phase](#future-enhancements)
+* [7. Deployment](#future-enhancements)
+* [8. Tech](#future-enhancements)
+* [9. Credits](#future-enhancements)
    • Honourable mentions
    • General reference
-
+   • Content
+   • Media
 #### Emojis from emojipedia.com
 #### Background Image from thepatternlibrary.com
-
-   • Content
-   • Media  
 
 ## Site Preview
 
