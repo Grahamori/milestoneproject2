@@ -18,7 +18,7 @@
    • Header Element:
    • The rest of your features
    • Footer
-* [4. Individual Page Content features]
+* [4. Individual Page Content](#page-content)
    • About Page Content
    • Teachings Page Content
    • Community Page Content
